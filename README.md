@@ -3,7 +3,7 @@
 [Baseball Player Salary Analytics Dashboard]
 
 ## Description
-his project analyzes baseball player salary data using Power BI to uncover key insights and trends. The dashboard provides a comprehensive view of salary distribution, player performance, and team-wise spending. It helps users understand how player salaries relate to performance metrics and identify high-value players.
+This project analyzes baseball player salary data using Power BI to uncover key insights and trends. The dashboard provides a comprehensive view of salary distribution, player performance, and team-wise spending. It helps users understand how player salaries relate to performance metrics and identify high-value players.
 
 The project demonstrates strong skills in data visualization, data analysis, and business intelligence using Power BI.
 
